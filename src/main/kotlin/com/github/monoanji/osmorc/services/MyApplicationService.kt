@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.monoanji.osmorc.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.monoanji.osmorc.MyBundle
 
 class MyApplicationService {
 
